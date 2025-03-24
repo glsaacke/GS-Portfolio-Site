@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 900 124"
+   width="900"
+   height="124"
+   version="1.1"
+   sodipodi:docname="layered-peaks-haikei-edit.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="layered-peaks-haikei.png"
+   inkscape:export-xdpi="409.60001"
+   inkscape:export-ydpi="409.60001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.9506277"
+     inkscape:cx="452.6748"
+     inkscape:cy="21.018875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visual" />
+  <path
+     d="M 0,37.641906 89.999999,45.056015 180,51.543359 270,41.34896 l 90,-2.780289 90,0.926763 90,-24.095851 90,7.414108 90,-12.047926 90,11.121162 90,17.608507 V 147 H 810 720 630 540 450 360 270 180 89.999999 0 Z"
+     fill="#52658f"
+     id="path1"
+     style="stroke-width:0.962685" />
+  <path
+     d="M 0,47.379425 89.999999,65.756036 180,37.707524 l 90,8.704711 90,-14.507851 90,4.83595 90,29.982892 90,-31.917272 90,24.179752 90,-32.884462 90,12.573471 V 147 H 810 720 630 540 450 360 270 180 89.999999 0 Z"
+     fill="#4b5a80"
+     id="path2"
+     style="stroke-width:0.983456" />
+  <path
+     d="M 0,82 89.999999,75 180,65 l 90,21 90,-23 90,-3 90,17 90,2 90,1 90,-7 90,4 v 70 H 810 720 630 540 450 360 270 180 89.999999 0 Z"
+     fill="#434f72"
+     id="path3" />
+  <path
+     d="M 0,78 89.999999,86.999996 180,74 l 90,18.999996 90,5 L 450,83 h 90 l 90,3 90,22 90,-34 90,14.999996 V 147 H 810 720 630 540 450 360 270 180 89.999999 0 Z"
+     fill="#3b4464"
+     id="path4" />
+  <path
+     d="M 0,112.48092 89.999999,106.49297 180,103 270,111.48293 360,103 l 90,8.98192 90,-3.99196 90,2.49498 90,-2.99398 90,7.98393 90,-0.99799 v 10.47891 H 810 720 630 540 450 360 270 180 89.999999 0 Z"
+     fill="#333a56"
+     id="path5"
+     style="stroke-width:0.706396" />
+</svg>
