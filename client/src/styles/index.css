@@ -40,23 +40,46 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
-  font-family: primary-bold;
+  font-family: "DM Sans", sans-serif;
+  font-size: 6rem;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: #52658F;
 }
 
 h2 {
-  font-family: primary-bold;
+  font-family: "DM Sans", sans-serif;
+  font-size: 4rem;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: #52658F;
 }
 
-/* @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-} */
+h3 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 4rem;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: #333A56;
+}
+
+h4{
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.5rem;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: #333A56;
+}
+
+p {
+  font-family: "DM Sans", sans-serif;
+  font-size: 1rem;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  color: #333A56
+}
