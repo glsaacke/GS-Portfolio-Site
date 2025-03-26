@@ -4,6 +4,12 @@
     display: flex;
     position: relative;
     flex-direction: column;
+    margin: 0 0;
+}
+
+.container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
 }
 
 .about-bg {
@@ -20,7 +26,44 @@
 .about-content {
     width: 80%;
     height: 80vh;
-    display: flex;
-    align-items: center;
+    
     align-self: center;
+}
+
+.test {
+    height: 20px;
+}
+
+.about-content h2{   
+    margin:0;
+    padding: 2vh 0;
+}
+
+.about-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-profile img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.skill-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-icons {
+}
+
+.skill-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 10px;
 }
