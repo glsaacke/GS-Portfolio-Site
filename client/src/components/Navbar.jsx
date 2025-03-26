@@ -14,9 +14,9 @@ const Navbar = () => {
                     </g>
                 </svg> */}
 
-                <svg width="48px" height="48px" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+                <svg width="40px" height="40px" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
                     <circle fill="#333a56" cx="40" cy="40" r="40" />
-                    <text x="50%" y="79%" font-size="70" font-family="'DM Sans', sans-serif" font-weight="bold" fill="#ffffff" text-anchor="middle">G</text>
+                    <text x="50%" y="79%" fontSize="70" fontFamily="'DM Sans', sans-serif" fontWeight="bold" fill="#ffffff" textAnchor="middle">G</text>
                 </svg>
 
                 <nav className="nav-links">

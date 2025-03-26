@@ -1,0 +1,26 @@
+.projects-container {
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.projects-bg {
+    background-image: url(../assets/peaks/wave-haikei-2.2.svg);
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    width: 100%;
+    height: 10vh;
+    
+}
+
+.projects-content {
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    align-self: center;
+}

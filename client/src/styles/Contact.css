@@ -1,0 +1,26 @@
+.contact-container {
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.contact-bg {
+    background-image: url(../assets/peaks/wave-haikei-4.1.svg);
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    width: 100%;
+    height: 10vh;
+    
+}
+
+.contact-content {
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
