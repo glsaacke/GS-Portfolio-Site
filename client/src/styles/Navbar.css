@@ -2,3 +2,34 @@
     width: 100vw;
     height: 10vh;
 }
+
+.navbar-content {
+    display: flex;
+    height: 100%;
+    width: 80%;
+    border-bottom: #333A56 1px solid;
+    justify-self: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 4vh;
+}
+
+.nav-link {
+    margin: 0 10px;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1rem;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: #333A56;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-icon {
+    height: 48px;
+    width: 48px;
+}
