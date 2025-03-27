@@ -12,6 +12,11 @@
     padding-right: 0 !important;
 }
 
+.bg-placeholder {
+    width: 100%;
+    height: 10vh;
+}
+
 .about-bg {
     background-image: url(../assets/peaks/wave-haikei-1.1.svg);
     /* background-size: 100% 100%; */
@@ -20,7 +25,8 @@
     background-size: cover;
     width: 100%;
     height: 10vh;
-    
+    position:fixed;
+    bottom: 0;
 }
 
 .about-content {
@@ -43,13 +49,18 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 3vh 0;
 }
 
 .about-profile img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     border-radius: 50%;
+}
+
+.about-body {
+    padding: 3vh 0;
 }
 
 .skill-container {
@@ -57,13 +68,26 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 3vh;
+    padding-bottom: 10vh;
 }
 
 .skill-icons {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .skill-icon {
     width: 70px;
     height: 70px;
     margin: 0 10px;
+}
+
+@media (max-width: 768px) {
+    .about-profile img {
+        width: 200px;
+        height: 200px
+    }
 }

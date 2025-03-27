@@ -30,12 +30,12 @@ const About = () => {
             <div className="about-content container">
                 <h2 className="col-12 row">About</h2>
                 <div className="row row-no-gutters">
-                    <div className="col-12 col-md-4 about-profile">
+                    <div className="col-12 col-md-5 about-profile">
                         <img src="./src/assets/ring(full).jpg" alt="Gavin Saacke PFP" />
                         <h4>Gavin Saacke</h4>
                         <p>Moultrie Mobile</p>
                     </div>
-                    <div className="col-12 col-md-8 about-body">
+                    <div className="col-12 col-md-7 about-body">
                         <p>Gavin Saacke is a Software Engineer and Senior Student-Athlete at the University of Alabama, specializing in full-stack development and data analytics. While studying Management Information Systems, he combines technical expertise with a track record of excellence as a Division I Athlete in Track & Field and Cross Country.
 
                         <br></br><br></br>With experience in C#, .NET, JavaScript, React, and more, Gavin has built and deployed software solutions, including client management software and data-driven web applications. As a Software Engineer with Moultrie Mobile, he contributes to backend development, API design, and test automation.
@@ -55,6 +55,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
+            
             <div className="about-bg"></div>
         </div>
         

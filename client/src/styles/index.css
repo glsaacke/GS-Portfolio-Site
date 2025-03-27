@@ -41,7 +41,7 @@ body {
 
 h1 {
   font-family: "DM Sans", sans-serif;
-  font-size: 6rem;
+  font-size: 9rem;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
@@ -50,7 +50,7 @@ h1 {
 
 h2 {
   font-family: "DM Sans", sans-serif;
-  font-size: 5rem;
+  font-size: 8rem;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
@@ -68,7 +68,7 @@ h3 {
 
 h4{
   font-family: "DM Sans", sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
@@ -77,9 +77,19 @@ h4{
 
 p {
   font-family: "DM Sans", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
   color: #333A56
+}
+
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.purple{
+  background-color: blueviolet;
 }
