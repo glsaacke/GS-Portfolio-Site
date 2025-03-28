@@ -14,13 +14,31 @@
     background-size: cover;
     width: 100%;
     height: 10vh;
-    
+    position:fixed;
+    bottom: 0;
 }
 
 .projects-content {
     width: 80%;
     height: 80vh;
-    display: flex;
-    align-items: center;
+    
+
     align-self: center;
+    justify-self: center;
+}
+
+.projects-projects {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 10vh;
+    padding-top: 3vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.projectCard-container {
+    padding: 10px 10px;
+    
+
 }

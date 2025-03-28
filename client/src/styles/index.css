@@ -93,3 +93,12 @@ p {
 .purple{
   background-color: blueviolet;
 }
+.redb{
+  border: red 2px dashed;
+}
+.cyanb{
+  border: cyan 2px dashed;
+}
+.yellowb{
+  border: yellow 2px dashed;
+}

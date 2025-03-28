@@ -1,0 +1,42 @@
+.projectCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Softer, smaller shadow */
+    transition: box-shadow 0.2s ease-in-out;
+    border-radius: 8px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+}
+
+.projectCard p{
+    
+}
+
+/* Optional: Slightly enhance shadow on hover */
+.projectCard:hover {
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+    /* background-color: rgba(0, 0, 0, 0.05); */
+}
+
+.projectCard-link {
+    text-decoration: none;
+}
+
+.projectCard-link:hover {
+    text-decoration: none;
+}
+
+.projectCard h4 {
+    text-align: center;
+}
+
+.projectCard img {
+    width: clamp(200px, 100%, 350px);
+    height: auto;
+    border-radius: 8px;
+    border: .5px solid darkgrey;
+}
